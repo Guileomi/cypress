@@ -1,0 +1,13 @@
+{
+  "name": "guihs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:web":"npx cypress open",
+    "cypress:headless":"npx cypress run --browser edge"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
